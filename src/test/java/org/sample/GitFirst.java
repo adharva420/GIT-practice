@@ -9,8 +9,7 @@ public class GitFirst {
 	}
 	@Test
 	private void test1() {
-		// TODO Auto-generated method stub
-
+		System.out.println("Update 1");
 	}
 	
 
