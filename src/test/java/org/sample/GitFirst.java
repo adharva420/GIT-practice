@@ -10,6 +10,7 @@ public class GitFirst {
 	@Test
 	private void test1() {
 		System.out.println("Update 1");
+		System.out.println("QA Update 1");
 	}
 	
 
